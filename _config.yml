@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/kool601/kool601.github.io/master/image
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: kool601@outlook.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: kool601
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: KoolenDasheppi
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UC0Pub2466_KFlBN0Jz5AXpQ
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://kool601.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
